@@ -1,0 +1,10 @@
+print("Hello World")
+
+print("啊哈哈1")
+print("啊哈哈2")
+print("啊哈哈3")
+print("啊哈哈1")
+print("啊哈哈5")
+print("啊哈哈6")
+print("啊哈哈7")
+print("啊哈哈8")
