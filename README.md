@@ -1,2 +1,2 @@
 # PythonStudy
-学习基础Python知识
+帮助Python小白系统地学习基础Python知识
